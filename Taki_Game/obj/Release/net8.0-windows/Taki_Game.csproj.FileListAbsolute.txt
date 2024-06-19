@@ -96,3 +96,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\Taki_Game\obj\Release\net8.0-
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Taki_Game\obj\Release\net8.0-windows\Taki_Game.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Taki_Game\obj\Release\net8.0-windows\Taki_Game.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Taki_Game\obj\Release\net8.0-windows\ref\Taki_Game.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Taki_Game\obj\Release\net8.0-windows\Taki_Game.sourcelink.json

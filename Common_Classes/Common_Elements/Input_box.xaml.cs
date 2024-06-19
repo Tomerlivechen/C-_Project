@@ -85,31 +85,31 @@ namespace Common_Classes.Common_Elements
                 case 3:
                     if (!string.IsNullOrEmpty(Field1_TB.Text) && !string.IsNullOrWhiteSpace(Field1_TB.Text))
                     {
-                        fields.Add(Field1_TB.Text.FirstCapital());
+                        fields.Add(Field1_TB.Text.FirstCapitalMulti());
                     }
                     if (!string.IsNullOrEmpty(Field2_TB.Text) && !string.IsNullOrWhiteSpace(Field2_TB.Text))
                     {
-                        fields.Add(Field2_TB.Text.FirstCapital());
+                        fields.Add(Field2_TB.Text.FirstCapitalMulti());
                     }
                     if (!string.IsNullOrEmpty(Field3_TB.Text) && !string.IsNullOrWhiteSpace(Field3_TB.Text))
                     {
-                        fields.Add(Field3_TB.Text.FirstCapital());
+                        fields.Add(Field3_TB.Text.FirstCapitalMulti());
                     }
                     break;
                 case 2:
                     if (!string.IsNullOrEmpty(Field2_TB.Text) && !string.IsNullOrWhiteSpace(Field2_TB.Text))
                     {
-                        fields.Add(Field1_TB.Text.FirstCapital());
+                        fields.Add(Field1_TB.Text.FirstCapitalMulti());
                     }
                     if (!string.IsNullOrEmpty(Field1_TB.Text) && !string.IsNullOrWhiteSpace(Field1_TB.Text))
                     {
-                        fields.Add(Field2_TB.Text.FirstCapital());
+                        fields.Add(Field2_TB.Text.FirstCapitalMulti());
                     }
                     break;
                 case 1:
                     if (!string.IsNullOrEmpty(Field1_TB.Text) && !string.IsNullOrWhiteSpace(Field1_TB.Text))
                     {
-                        fields.Add(Field1_TB.Text.FirstCapital());
+                        fields.Add(Field1_TB.Text.FirstCapitalMulti());
                     }
                     break;
                 default:

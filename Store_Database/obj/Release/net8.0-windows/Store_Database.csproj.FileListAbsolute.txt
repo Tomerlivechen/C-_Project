@@ -59,3 +59,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\Store_Database\obj\Release\ne
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Store_Database\obj\Release\net8.0-windows\Store_Database.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Store_Database\obj\Release\net8.0-windows\Store_Database.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Store_Database\obj\Release\net8.0-windows\ref\Store_Database.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Store_Database\obj\Release\net8.0-windows\Store_Database.sourcelink.json

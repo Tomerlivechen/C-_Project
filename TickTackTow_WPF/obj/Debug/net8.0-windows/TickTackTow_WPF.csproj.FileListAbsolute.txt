@@ -95,3 +95,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\TickTackTow_WPF\obj\Debug\net
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\TickTackTow_WPF\obj\Debug\net8.0-windows\TickTackTow_WPF.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\TickTackTow_WPF\obj\Debug\net8.0-windows\TickTackTow_WPF.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\TickTackTow_WPF\obj\Debug\net8.0-windows\ref\TickTackTow_WPF.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\TickTackTow_WPF\obj\Debug\net8.0-windows\TickTackTow_WPF.sourcelink.json

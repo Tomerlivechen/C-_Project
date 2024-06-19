@@ -78,3 +78,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\obj\Release\net8.0-wi
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\obj\Release\net8.0-windows\Frogger.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\obj\Release\net8.0-windows\Frogger.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\obj\Release\net8.0-windows\ref\Frogger.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\obj\Release\net8.0-windows\Frogger.sourcelink.json

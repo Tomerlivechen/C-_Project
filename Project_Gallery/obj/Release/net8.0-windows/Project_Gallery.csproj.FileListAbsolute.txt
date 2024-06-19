@@ -76,3 +76,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\Project_Gallery\obj\Release\n
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Project_Gallery\obj\Release\net8.0-windows\Project_Gallery.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Project_Gallery\obj\Release\net8.0-windows\Project_Gallery.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Project_Gallery\obj\Release\net8.0-windows\ref\Project_Gallery.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Project_Gallery\obj\Release\net8.0-windows\Project_Gallery.sourcelink.json

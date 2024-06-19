@@ -108,3 +108,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\obj\Debug\net8.0-
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\obj\Debug\net8.0-windows\Speed_Racer.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\obj\Debug\net8.0-windows\Speed_Racer.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\obj\Debug\net8.0-windows\ref\Speed_Racer.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\obj\Debug\net8.0-windows\Speed_Racer.sourcelink.json

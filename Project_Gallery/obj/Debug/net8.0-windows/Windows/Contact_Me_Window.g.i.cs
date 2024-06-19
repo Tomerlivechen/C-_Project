@@ -61,7 +61,7 @@ namespace Project_Gallery.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Project_Gallery;V1.0.0.0;component/windows/contact_me_window.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Project_Gallery;component/windows/contact_me_window.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\Contact_Me_Window.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

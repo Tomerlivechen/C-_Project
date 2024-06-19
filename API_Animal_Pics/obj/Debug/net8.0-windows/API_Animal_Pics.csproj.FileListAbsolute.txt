@@ -61,3 +61,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\API_Animal_Pics\obj\Debug\net
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\API_Animal_Pics\obj\Debug\net8.0-windows\API_Animal_Pics.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\API_Animal_Pics\obj\Debug\net8.0-windows\API_Animal_Pics.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\API_Animal_Pics\obj\Debug\net8.0-windows\ref\API_Animal_Pics.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\API_Animal_Pics\obj\Debug\net8.0-windows\API_Animal_Pics.sourcelink.json

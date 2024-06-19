@@ -96,3 +96,4 @@ C:\Users\tomer\Documents\Dot_Net course\C#_Project\Animal_Facts\obj\Release\net8
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Animal_Facts\obj\Release\net8.0-windows\API_hub.pdb
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Animal_Facts\obj\Release\net8.0-windows\API_hub.genruntimeconfig.cache
 C:\Users\tomer\Documents\Dot_Net course\C#_Project\Animal_Facts\obj\Release\net8.0-windows\ref\API_hub.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Animal_Facts\obj\Release\net8.0-windows\API_hub.sourcelink.json
