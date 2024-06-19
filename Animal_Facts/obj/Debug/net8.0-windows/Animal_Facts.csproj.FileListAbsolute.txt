@@ -1,0 +1,87 @@
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\AnimalFacts.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Cocktail_recipes.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Receipt.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts_MarkupCompile.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts_MarkupCompile.lref
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.exe
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.deps.json
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.runtimeconfig.json
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.pdb
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\AnimalFacts.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Cocktail_recipes.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Receipt.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.g.resources
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.AssemblyInfoInputs.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.AssemblyInfo.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.sourcelink.json
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\refint\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.pdb
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.genruntimeconfig.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\ref\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Drinks_Window.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Drinks_Window.baml
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.exe
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.deps.json
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.runtimeconfig.json
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.dll
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.pdb
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\AnimalFacts.g.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Cocktail_recipes.g.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Drinks_Window.g.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Receipt.g.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts_MarkupCompile.cache
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts_MarkupCompile.lref
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\AnimalFacts.baml
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Cocktail_recipes.baml
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Drinks_Window.baml
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\Receipt.baml
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.g.resources
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.AssemblyInfoInputs.cache
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.AssemblyInfo.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.sourcelink.json
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.dll
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\refint\Animal_Facts.dll
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.pdb
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.genruntimeconfig.cache
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\ref\Animal_Facts.dll
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\tomer\Documents\GitHub\C-_Advanced\Animal_Facts\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\AnimalFacts.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\Cocktail_recipes.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\Drinks_Window.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\Receipt.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts_MarkupCompile.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts_MarkupCompile.lref
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\refint\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.pdb
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.exe
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.deps.json
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.runtimeconfig.json
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.dll
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\bin\Debug\net8.0-windows\Animal_Facts.pdb
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\AnimalFacts.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\Cocktail_recipes.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\Drinks_Window.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Windows\Receipt.baml
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.g.resources
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.AssemblyInfoInputs.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.AssemblyInfo.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.sourcelink.json
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\Animal_Facts.genruntimeconfig.cache
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Animal_Facts\obj\Debug\net8.0-windows\ref\Animal_Facts.dll

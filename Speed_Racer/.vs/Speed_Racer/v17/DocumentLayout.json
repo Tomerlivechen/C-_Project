@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\windows\\game_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:windows\\game_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\resources\\classes\\move_objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:resources\\classes\\move_objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\resources\\classes\\race_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:resources\\classes\\race_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\windows\\game_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:windows\\game_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\resources\\classes\\get_from_canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:resources\\classes\\get_from_canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\resources\\classes\\collisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:resources\\classes\\collisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\speed_racer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:speed_racer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\resources\\controls\\colectable.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:resources\\controls\\colectable.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|c:\\users\\tomer\\desktop\\projects\\programming\\c#\\c_project\\c-_advanced_re\\speed_racer\\resources\\controls\\colectable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7836CD46-3B82-440F-82AE-F018A447FB77}|Speed_Racer.csproj|solutionrelative:resources\\controls\\colectable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move_objects.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Move_objects.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Move_objects.cs",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Move_objects.cs",
+              "RelativeToolTip": "Resources\\Classes\\Move_objects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:27:37.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Speed_Racer",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Speed_Racer.csproj",
+              "RelativeDocumentMoniker": "Speed_Racer.csproj",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Speed_Racer.csproj",
+              "RelativeToolTip": "Speed_Racer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T12:26:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Race_Game.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Race_Game.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Race_Game.cs",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Race_Game.cs",
+              "RelativeToolTip": "Resources\\Classes\\Race_Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:52:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Colectable.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Controls\\Colectable.xaml.cs",
+              "RelativeDocumentMoniker": "Resources\\Controls\\Colectable.xaml.cs",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Controls\\Colectable.xaml.cs",
+              "RelativeToolTip": "Resources\\Controls\\Colectable.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:44:02.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Colectable.xaml",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Controls\\Colectable.xaml",
+              "RelativeDocumentMoniker": "Resources\\Controls\\Colectable.xaml",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Controls\\Colectable.xaml",
+              "RelativeToolTip": "Resources\\Controls\\Colectable.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T11:43:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Get_From_Canvas.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Get_From_Canvas.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Get_From_Canvas.cs",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Get_From_Canvas.cs",
+              "RelativeToolTip": "Resources\\Classes\\Get_From_Canvas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:38:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Windows\\Game_Window.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\Game_Window.xaml.cs",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Windows\\Game_Window.xaml.cs",
+              "RelativeToolTip": "Windows\\Game_Window.xaml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Collisions.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Collisions.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Collisions.cs",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Resources\\Classes\\Collisions.cs",
+              "RelativeToolTip": "Resources\\Classes\\Collisions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:35:57.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game_Window.xaml",
+              "DocumentMoniker": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Windows\\Game_Window.xaml",
+              "RelativeDocumentMoniker": "Windows\\Game_Window.xaml",
+              "ToolTip": "C:\\Users\\tomer\\Desktop\\Projects\\Programming\\C#\\C_Project\\C-_Advanced_re\\Speed_Racer\\Windows\\Game_Window.xaml",
+              "RelativeToolTip": "Windows\\Game_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T11:35:30.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+﻿<Window x:Class="PriorityDefiner.TaskLists"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PriorityDefiner"
+        Icon="pack://application:,,,/Resources/Indexicon.ico"
+        mc:Ignorable="d"
+        Title="TaskLists" Height="500" Width="800" Background="#008080">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="0.15*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.05*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.05*"/>
+
+        </Grid.ColumnDefinitions>
+        <Border Background="#3DB1A1" Grid.Column="0" Grid.Row="0" Grid.RowSpan="8" Grid.ColumnSpan="3"/>
+        <Border Background="#008080" Grid.Row="1" Grid.Column="1"  Grid.RowSpan="3"/>
+        <Menu Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3">
+            <MenuItem Header="_File" FontSize="20">
+                <MenuItem Header="_New task list" FontSize="20"  Click="AddTasklist_Click"/>
+                <MenuItem Header="_Save" FontSize="20" Click="Save_Click"/>
+                <MenuItem Header="_Close" FontSize="20" Click="Close_Click"/>
+            </MenuItem>
+        </Menu >
+        <DataGrid  SelectionUnit="FullRow" SelectionMode="Single" IsReadOnly="True" AutoGenerateColumns="False" Grid.Column="1" Grid.Row="1" Margin="10" Grid.RowSpan="2" Name="TaskDataGrid" FontSize="20">
+            <DataGrid.Resources>
+                <Style x:Key="CenteredCellStyle" TargetType="TextBlock">
+                    <Setter Property="HorizontalAlignment" Value="Center" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="List Name" Width="Auto" Binding="{Binding TaskListName}" ElementStyle="{StaticResource CenteredCellStyle}" />
+                <DataGridTextColumn Header="Complete" Width="Auto" Binding="{Binding complete}" ElementStyle="{StaticResource CenteredCellStyle}" />
+                <DataGridTemplateColumn Header="Update" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Update" Click="Handle_Update"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Complete" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Complete" Click="Handle_Compleat"  />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Delete" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Delete" Click="Handle_Delete"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+            </DataGrid>
+        <StackPanel Grid.Row="3"  Grid.Column="1" Margin="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="New_List" Height="30" Width="200" Content="Add New List" FontSize="21" Margin="5" Click="New_List_Button_Click"/>
+            <Button Name="Save_Changes" Height="30" Width="200" Content="Save Changes" FontSize="21" Margin="5" Click="Save_Button_Click"/>
+ </StackPanel>
+    </Grid>
+    
+    
+</Window>
+
+

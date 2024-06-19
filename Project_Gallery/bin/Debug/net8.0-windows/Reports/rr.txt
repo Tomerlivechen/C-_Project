@@ -1,0 +1,9 @@
+rr____06/06/2024 19:10:40
+ID:8b75c369-8e2c-48ba-aa2e-9be706a42a3b , Item Name:Chair , Main Category:Cars , Secondery Category:Health , Amount:91826 , Min Amount:65098 , Added Date:addedDate 4, LastUpdate:2024-06-06,Last Updater:id 6
+ID:ab4a4507-16b7-46f2-9acb-c8d42acb9aae , Item Name:Bike , Main Category:Sports , Secondery Category:Garden , Amount:53151 , Min Amount:44015 , Added Date:addedDate 5, LastUpdate:lastUpdate 5,Last Updater:}=t`'2'\TJ
+ID:de0b4244-9897-4fec-91d6-e52a280a446c , Item Name:Car , Main Category:Home , Secondery Category:Beauty , Amount:76978 , Min Amount:5252 , Added Date:addedDate 7, LastUpdate:lastUpdate 7,Last Updater:bUC1/q?O#A
+ID:27fcb2db-fb9e-487c-8603-f5ca91f2ad11 , Item Name:Tuna , Main Category:Garden , Secondery Category:Toys , Amount:43327 , Min Amount:16896 , Added Date:addedDate 8, LastUpdate:lastUpdate 8,Last Updater:c7[(E7s&8Z
+ID:b7eb4b8a-adfe-4859-a615-a5ecaec21c52 , Item Name:Cheese , Main Category:Games , Secondery Category:Grocery , Amount:86660 , Min Amount:92142 , Added Date:addedDate 9, LastUpdate:2024-06-05,Last Updater:id 13
+ID:37c7a0fb-6aa2-48de-b00a-743e6a635ea2 , Item Name:Shirt , Main Category:Garden , Secondery Category:Automotive , Amount:64697 , Min Amount:6869 , Added Date:addedDate 10, LastUpdate:lastUpdate 10,Last Updater:Ld}p|+ePTk
+ID:c4bffd80-68af-4e8b-babb-91f79f584751 , Item Name:Sausages , Main Category:Automotive , Secondery Category:Automotive , Amount:80437 , Min Amount:57376 , Added Date:addedDate 12, LastUpdate:lastUpdate 12,Last Updater:=7c4x\7Jaa
+ID:6da7ba54-65d2-4c27-8c88-c9930ad66d57 , Item Name:Bacon , Main Category:Tools , Secondery Category:Movies , Amount:91629 , Min Amount:80448 , Added Date:addedDate 13, LastUpdate:lastUpdate 13,Last Updater:E>W"')r+V=

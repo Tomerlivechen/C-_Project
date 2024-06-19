@@ -1,0 +1,2 @@
+rrr____06/06/2024 19:11:03
+ID:b7eb4b8a-adfe-4859-a615-a5ecaec21c52 , Item Name:Cheese , Main Category:Games , Secondery Category:Grocery , Amount:86660 , Min Amount:92142 , Added Date:addedDate 9, LastUpdate:2024-06-05,Last Updater:id 13

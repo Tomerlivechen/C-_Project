@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Users\Tomer Chen\GitHub\C#_Advanced_re\Project_Gallery\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Controles\Contact_Me.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controles\CustomeMessagebox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controles\ProjectButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Contact_Me_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Controles\Contact_Me.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controles\CustomeMessagebox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controles\ProjectButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Contact_Me_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

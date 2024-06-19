@@ -1,0 +1,52 @@
+﻿<Window x:Class="API_hub.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:API_hub"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="400">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0.1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Border Background="#3DB1A1" Grid.Column="0" Grid.Row="0" Grid.RowSpan="10" Grid.ColumnSpan="4"/>
+        <Border Background="#008080" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="1" Grid.RowSpan="4"/>
+        <Menu Grid.Row="0" Grid.ColumnSpan="3">
+            <MenuItem Header="_File" FontSize="20">
+                <MenuItem Header="_Close" FontSize="20" Click="Close_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <DataGrid  SelectionUnit="FullRow"  Grid.Row="1" Grid.Column="1"  SelectionMode="Single" IsReadOnly="True" AutoGenerateColumns="False"  Margin="10"  Name="ListDataGrid" FontSize="20" MouseDoubleClick="DataGrid_MouseDoubleClick">
+                <DataGrid.Resources>
+                    <Style x:Key="CenteredCellStyle" TargetType="TextBlock">
+                        <Setter Property="HorizontalAlignment" Value="Center" />
+                    </Style>
+                </DataGrid.Resources>
+                <DataGrid.Columns>
+                <DataGridTextColumn x:Name="Binding_Column"  Header="Search results" Width="*" Binding="{Binding name}" ElementStyle="{StaticResource CenteredCellStyle}"  />
+                </DataGrid.Columns>
+            </DataGrid>
+
+        <ComboBox Name="API_Selection" Grid.Column="1"  Grid.Row="2" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="250" SelectedIndex="0" HorizontalContentAlignment="Center">
+                    <ComboBoxItem Content="Animals" Tag="1"/>
+                    <ComboBoxItem Content="Recipes" Tag="2"/>
+            <ComboBoxItem Content="Cocktails" Tag="3"/>
+            <ComboBoxItem Content="Drinks" Tag="4"/>
+        </ComboBox>
+        <TextBox Margin="5" Grid.Column="1" Name="TB_Name" FontSize="20"  Grid.Row="3"/>
+        <Button Content="Search" Grid.Column="1" Margin="10" Click="Button_Click" FontSize="20"  Grid.Row="4"/>
+    </Grid>
+</Window>

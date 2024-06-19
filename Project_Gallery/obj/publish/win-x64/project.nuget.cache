@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxQSKkkGIyKu05d7FqVIUZbOPKTFhRG6nUk3wvoVkQyZWobADy0aBZpp6mPDttRNmhNAF+dkeKZB9GHK+8P9GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Advanced_re\\Project_Gallery\\Project_Gallery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomer\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\tomer\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

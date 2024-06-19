@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "API_hub/1.0.0": {
+        "dependencies": {
+          "Common_Classes": "1.0.0"
+        },
+        "runtime": {
+          "API_hub.dll": {}
+        }
+      },
+      "Common_Classes/1.0.0": {
+        "runtime": {
+          "Common_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API_hub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

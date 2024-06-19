@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Store_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\api_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\api_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\static_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\static_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\windows\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\windows\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\windows\\add_edituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\windows\\add_edituserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\db_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\db_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\windows\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\windows\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\classes\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\classes\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\windows\\add_edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\windows\\add_edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\windows\\add\u0026editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\windows\\add\u0026editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|f:\\store_database\\resources\\windows\\add\u0026editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{166DB749-96B6-42A7-A8B7-15FAD749E8EB}|Store_Database.csproj|solutionrelative:resources\\windows\\add\u0026editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API_Static.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\API_Static.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\API_Static.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\API_Static.cs",
+              "RelativeToolTip": "Resources\\Classes\\API_Static.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:49:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Log.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\Log.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Log.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\Log.cs",
+              "RelativeToolTip": "Resources\\Classes\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:34:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Security.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\Security.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Security.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\Security.cs",
+              "RelativeToolTip": "Resources\\Classes\\Security.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:26:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Windows\\UsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Resources\\Windows\\UsersWindow.xaml.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Windows\\UsersWindow.xaml.cs",
+              "RelativeToolTip": "Resources\\Windows\\UsersWindow.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:31:00.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersWindow.xaml",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Windows\\UsersWindow.xaml",
+              "RelativeDocumentMoniker": "Resources\\Windows\\UsersWindow.xaml",
+              "ToolTip": "F:\\Store_Database\\Resources\\Windows\\UsersWindow.xaml",
+              "RelativeToolTip": "Resources\\Windows\\UsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T06:25:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Static_Data.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\Static_Data.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Static_Data.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\Static_Data.cs",
+              "RelativeToolTip": "Resources\\Classes\\Static_Data.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:22:14.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\Catagory.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Catagory.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\Catagory.cs",
+              "RelativeToolTip": "Resources\\Classes\\Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:21:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DB_Item.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\DB_Item.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\DB_Item.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\DB_Item.cs",
+              "RelativeToolTip": "Resources\\Classes\\DB_Item.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:27:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Store_Database\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\Store_Database\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAACsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:24:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Classes\\Users.cs",
+              "RelativeDocumentMoniker": "Resources\\Classes\\Users.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Classes\\Users.cs",
+              "RelativeToolTip": "Resources\\Classes\\Users.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:02:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add_EditUserWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Windows\\Add_EditUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Resources\\Windows\\Add_EditUserWindow.xaml.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Windows\\Add_EditUserWindow.xaml.cs",
+              "RelativeToolTip": "Resources\\Windows\\Add_EditUserWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:20:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Store_Database\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "F:\\Store_Database\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T09:24:07.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add_EditUserWindow.xaml",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Windows\\Add_EditUserWindow.xaml",
+              "RelativeDocumentMoniker": "Resources\\Windows\\Add_EditUserWindow.xaml",
+              "ToolTip": "F:\\Store_Database\\Resources\\Windows\\Add_EditUserWindow.xaml",
+              "RelativeToolTip": "Resources\\Windows\\Add_EditUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T06:19:54.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add\u0026EditWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Windows\\Add\u0026EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Resources\\Windows\\Add\u0026EditWindow.xaml.cs",
+              "ToolTip": "F:\\Store_Database\\Resources\\Windows\\Add\u0026EditWindow.xaml.cs",
+              "RelativeToolTip": "Resources\\Windows\\Add\u0026EditWindow.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:27:59.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add\u0026EditWindow.xaml",
+              "DocumentMoniker": "F:\\Store_Database\\Resources\\Windows\\Add\u0026EditWindow.xaml",
+              "RelativeDocumentMoniker": "Resources\\Windows\\Add\u0026EditWindow.xaml",
+              "ToolTip": "F:\\Store_Database\\Resources\\Windows\\Add\u0026EditWindow.xaml",
+              "RelativeToolTip": "Resources\\Windows\\Add\u0026EditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T08:01:04.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

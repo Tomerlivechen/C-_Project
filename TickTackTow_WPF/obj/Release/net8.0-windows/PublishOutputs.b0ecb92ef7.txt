@@ -1,0 +1,5 @@
+C:\Users\tomer\Desktop\net8.0-windows\TickTackTow_WPF.exe
+C:\Users\tomer\Desktop\net8.0-windows\TickTackTow_WPF.dll
+C:\Users\tomer\Desktop\net8.0-windows\TickTackTow_WPF.deps.json
+C:\Users\tomer\Desktop\net8.0-windows\TickTackTow_WPF.runtimeconfig.json
+C:\Users\tomer\Desktop\net8.0-windows\TickTackTow_WPF.pdb

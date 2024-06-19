@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Speed_Racer.Resources.Controls.FuleGauge"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Speed_Racer.Resources.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" Width="270">
+    <Grid >
+        <Image Name="Tank_image"  Margin="160,185,0,155" Source="../Resources/Images/FuleSymbol.png" Stretch="Fill"/>
+        <StackPanel Name="fule_panel" Orientation="Vertical" Margin="10" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" >
+
+
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,20 @@
+﻿Speed_Racer
+
+
+winexe
+C#
+.cs
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Speed_Racer\obj\Debug\net8.0-windows\win-x64\
+Speed_Racer
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\tomer\Documents\Dot_Net course\C#_Advanced_re\Speed_Racer\App.xaml
+7450175957
+
+182133625080
+1991356543565
+Resources\Controls\Colectable.xaml;Resources\Controls\DistanceView.xaml;Resources\Controls\FuleGauge.xaml;Resources\Controls\Repair_item.xaml;Resources\Controls\Speedometer.xaml;Windows\Game_Window.xaml;Windows\IndexWindow.xaml;
+
+False
+

@@ -1,0 +1,68 @@
+﻿<Window x:Class="Store_Database.IndexWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Store_Database"
+        Icon="pack://application:,,,/Resources/Indexicon.ico"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.05*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.05*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Border Background="#3DB1A1" Grid.Column="0" Grid.Row="0" Grid.RowSpan="8" Grid.ColumnSpan="3"/>
+        <Border Background="#008080" Grid.Row="1" Grid.Column="1"  Grid.RowSpan="5"/>
+        <Menu Grid.Row="0" Grid.ColumnSpan="3">
+            <MenuItem Header="_File" FontSize="20">
+                <MenuItem Header="Change _API Address" FontSize="20" Click="ChangeAPIAddress_Click"/>
+                <MenuItem Header="Change _Manager Passcode" FontSize="20" Click="ChangePasscode_Click"/>
+                <MenuItem Header="Veiw _Workers" FontSize="20" Click="VeiwWorkers_Click"/>
+                <MenuItem Header="_Close" FontSize="20" Click="Close_Click"/>
+            </MenuItem>
+        </Menu>
+        <Label Grid.Row="1" Grid.Column="1" Content="Store Invetory" FontSize="26" HorizontalAlignment="Center" FontWeight="Heavy"></Label>
+        <DataGrid Name="resultsDataGrid" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="1"  AutoGenerateColumns="True" Margin="5" ColumnWidth="*"  IsReadOnly="True">
+        </DataGrid>
+        <StackPanel Grid.Row="3"  Grid.Column="1" Margin="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="Add_Button" Height="30" Width="200" Content="Add" FontSize="21" Margin="5" Click="Add_Button_Click"/>
+            <Button Name="Delete_Button" Height="30" Width="200" Content="Delete" FontSize="21" Margin="5" Click="Delete_Button_Click"/>
+            <Button Name="Load_Button" Height="30" Width="200" Content="Load" FontSize="21" Margin="5" Click="Load_Button_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4"  Grid.Column="1" Margin="4" Orientation="Horizontal" HorizontalAlignment="Center"  >
+            <StackPanel Orientation="Vertical">
+                <Label  Content="Main Category" FontSize="15" HorizontalAlignment="Center" />
+                <ComboBox  Name="Catagories1" SelectedIndex="0" FontSize="18" Height="30" Width="200" Margin="5" SelectionChanged="Catagories1_SelectionChanged">
+                    <ComboBoxItem Content="Main Category"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Label  Content="Secondery Category" FontSize="15" HorizontalAlignment="Center" />
+                <ComboBox  Name="Catagories2" SelectedIndex="0" FontSize="18" Height="30" Width="200" Margin="5" SelectionChanged="Catagories2_SelectionChanged">
+                    <ComboBoxItem Content="Secondery Category" />
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Button Name="Filter_Button" Height="30" Width="200" Content="Filter by name" FontSize="21" Margin="5" Click="Filter_Button_Click"/>
+                <TextBox Name="Search"  FontSize="18" Height="30" Width="200" Margin="5"></TextBox>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="5"  Grid.Column="1" Margin="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="Edit_Button" Height="30" Width="200" Content="Edit" FontSize="21" Margin="5" Click="Edit_Button_Click"/>
+            <Button Name="Undermin_Button" Height="30" Width="200" Content="UnderMin" FontSize="21" Margin="5" Click="Undermin_Button_Click"/>
+            <Button Name="Report_Button" Height="30" Width="200" Content="Print Report" FontSize="21" Margin="5" Click="Report_Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

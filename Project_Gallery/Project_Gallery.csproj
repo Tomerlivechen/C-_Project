@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <StartupObject>Project_Gallery.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\add user.png" />
+    <None Remove="Resources\Contact_me_images\Git.png" />
+    <None Remove="Resources\Contact_me_images\info_user.png" />
+    <None Remove="Resources\Contact_me_images\Linked.png" />
+    <None Remove="Resources\Contact_me_images\Mail.png" />
+    <None Remove="Resources\Contact_me_images\Orcid.png" />
+    <None Remove="Resources\Contact_me_images\What.png" />
+    <None Remove="Resources\Indexicon.ico" />
+    <None Remove="Resources\IndexImage.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Animal_Facts\API_hub.csproj" />
+    <ProjectReference Include="..\API_Animal_Pics\API_Animal_Pics.csproj" />
+    <ProjectReference Include="..\Common_Classes\Common_Classes.csproj" />
+    <ProjectReference Include="..\Frogger\Frogger.csproj" />
+    <ProjectReference Include="..\Memory_game\Memory_game.csproj" />
+    <ProjectReference Include="..\PrioratyDefiner\PriorityDefiner.csproj" />
+    <ProjectReference Include="..\Speed_Racer\Speed_Racer.csproj" />
+    <ProjectReference Include="..\Store_Database\Store_Database.csproj" />
+    <ProjectReference Include="..\Taki_Game\Taki_Game.csproj" />
+    <ProjectReference Include="..\TickTackTow_WPF\TickTackTow_WPF.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\add user.png" />
+    <Resource Include="Resources\Contact_me_images\Git.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Contact_me_images\info_user.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Contact_me_images\Linked.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Contact_me_images\Mail.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Contact_me_images\Orcid.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Contact_me_images\What.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Indexicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\IndexImage.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Project_Gallery.Controles.Contact_Me"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Project_Gallery.Controles"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Name="Contact" Background="#008080" Grid.ColumnSpan="2" Panel.ZIndex="2" Click="Contact_Click">
+            <Image Source="/Resources/Contact_me_images/info_user.png" />
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="30"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Grid Grid.Column="1" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.7*"/>
+                <RowDefinition/>
+                <RowDefinition Height="0.7*"/>
+            </Grid.RowDefinitions>
+            <Border Background="#1F9991" Grid.Row="0" Grid.RowSpan="3" Panel.ZIndex="0">
+                <Border.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="30"/>
+                </Style>
+                </Border.Resources>
+            </Border>
+            <Border Background="#3DB1A1" Grid.Row="1" Grid.RowSpan="1" Panel.ZIndex="0" BorderBrush="#CE970B" BorderThickness="8"/>
+            <TextBlock Text="Created by Dr. Tomer Chen" FontSize="25" FontWeight="ExtraBold" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</UserControl>

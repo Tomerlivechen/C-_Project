@@ -1,0 +1,46 @@
+﻿<Window x:Class="API_Animal_Pics.Windows.Random_image"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:API_Animal_Pics.Windows"
+        Icon="pack://application:,,,/Resources/Indexicon.ico"
+        mc:Ignorable="d"
+        Title="Random_image" Height="450" Width="800" Background="#004040">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.4*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Grid.ColumnSpan="4">
+            <MenuItem Header="_File" FontSize="20">
+                <MenuItem Header="_Save image" FontSize="20" Click="Save_image_Click"/>
+                <MenuItem Header="Save image _list" FontSize="20" Click="Save_image_list_Click"/>
+                <MenuItem Header="_Close" FontSize="20" Click="Close_Click"/>
+            </MenuItem>
+
+
+        </Menu>
+        <Label Grid.Column="1" Name="List_Lable" Grid.Row="1" Grid.ColumnSpan="2" Content="Add images to list:" FontSize="24" VerticalAlignment="Center" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <TextBlock Name="Status_Bar" Background="#FBFBFB"  Grid.Column="0"  Grid.Row="5"   Grid.ColumnSpan="6"  FontSize="20"/>
+        <Button Grid.Column="0"  Grid.Row="2"  Content="Get a cat pic" FontSize="24" Click="Button_ClickAsync" Tag="Cat" Height="35" VerticalAlignment="Center" Margin="5"/>
+        <Button Grid.Column="1"  Grid.Row="2"  Content="Get a dog pic" FontSize="24" Click="Button_ClickAsync" Tag="Dog" Height="35" VerticalAlignment="Center" Margin="5"/>
+        <Button Grid.Column="2"  Grid.Row="2"  Content="Get a fox pic" FontSize="24" Click="Button_ClickAsync" Tag="Fox" Height="35" VerticalAlignment="Center" Margin="5"/>
+        <Button Grid.Column="3"  Grid.Row="2"  Content="Get a Bear pic" FontSize="24" Click="Button_ClickAsync" Tag="Bear" Height="35" VerticalAlignment="Center" Margin="5,5,5,5"/>
+        
+        <Image Name="Animal_pic"  Grid.Column="1"  Grid.Row="3" Grid.RowSpan="1" Grid.ColumnSpan="2" Margin="5"/>
+        <Image Name="Loading_pic" Grid.Column="1"  Grid.Row="3" Grid.RowSpan="1" Grid.ColumnSpan="2" Margin="5" Visibility="Hidden" />
+        <Button Grid.Column="1"  Grid.Row="4"  Content="Save to my list" FontSize="24" Click="Save_image_Click" Height="35" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="60,5,60,5"/>
+    </Grid>
+</Window>

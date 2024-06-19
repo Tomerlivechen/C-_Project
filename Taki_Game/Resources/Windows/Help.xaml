@@ -1,0 +1,62 @@
+﻿<Window x:Class="Taki_Game.Resources.Windows.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Taki_Game.Resources.Windows"
+        Icon="pack://application:,,,/Resources/Indexicon.ico"
+        mc:Ignorable="d"
+        Title="Help" Height="450" Width="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.05*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.05*"/>
+        </Grid.ColumnDefinitions>
+        <Border Background="#3DB1A1" Grid.Column="0" Grid.RowSpan="3" Grid.ColumnSpan="3"/>
+        <Border Background="#108D89" Grid.Row="1" Grid.Column="1" />
+        <TextBlock Text="About the application" FontSize="23" FontWeight="ExtraBlack" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="0"/>
+        <ScrollViewer Grid.Column="1" Grid.Row="1">
+        <StackPanel >
+                <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Text="This application was developed for playing the game TAKI using WPF for up to 4 players on one computer. Originally, I wanted to make all players' decks visible but only the player whose turn it was could view their deck. However, due to screen size limitations, only one deck is viewable at a time. It utilizes object-oriented programming, static classes, and custom message boxes and input boxes. The assets were taken from the original game website. The rules of the game here remain as they were in the original V1 game (the current public game version is V3)." />
+                <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Text="" />
+                <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Text="The rules and gameplay as they appear on the TAKI website" />
+                <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Text="GAMEPLAY: Each player must follow the top card of the Discard Pile with a card of the same color or figure. Action Cards can change the direction of play, skip a player's turn, force other players to draw cards, change the color, or allow a player to discard more than one card." />
+                <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Text="THE OBJECT OF THE GAME: To get rid of all the cards in your hand." />
+                <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Text="ACTION CARDS: The cards that are not regular number cards are called Action Cards. An Action Card can affect the player who uses it, the next player, or all the players. These cards are the heart of the game, and using them wisely is the key to winning." />
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="B_Taki" Source="/Resources/Images/B_Taki.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="TAKI: Playing a TAKI card allows the player to follow it with all their cards of the same color as the TAKI. Important: a TAKI card must be closed after playing the last card by declaring: “Closed TAKI!” If the player does not close the TAKI, it is considered an “Open TAKI” and the next player may use it to get rid of all their cards of that color. The TAKI remains open until one of the players who used it declares: “Closed TAKI” or until a card of a different color is played." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="Taki" Source="/Resources/Images/Taki.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="SUPERTAKI: A wild TAKI which automatically receives the color of the Leading Card. It does not change the color of the Leading Card. You may play the Super-TAKI card on any card except on a +2 and +3 which are still active." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="R_COrder" Source="/Resources/Images/R_COrder.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="CHANGE DIRECTION: Reverses the direction of play." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="R_Stop" Source="/Resources/Images/R_Stop.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="STOP: The next player loses their turn." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="_Color" Source="/Resources/Images/Color.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="CHANGE COLOR: Allows the user to determine the color to be played by the next player. This card can be played at any time, except after the +2 cards which are still active." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="Y_2P" Source="/Resources/Images/Y_2+.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="+2: Forces the next player to draw 2 cards or play another +2, forcing the next player to draw 4 cards or follow with a +2 as well, etc. The first player who cannot follow with a +2 must draw 2 cards for every +2 card that was played. After collecting the cards, the +2 is no longer active and the next player should treat it as a regular number card." />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" >
+                    <Image Name="Change" Source="/Resources/Images/Change.png" Width="80" HorizontalAlignment="Left"/>
+                    <TextBlock FontSize="18" FontWeight="SemiBold" TextWrapping="Wrap" Width="710" VerticalAlignment="Center" Text="SWITCH DECKS: Exchanges decks with the player to your right." />
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

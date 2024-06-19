@@ -1,0 +1,13 @@
+workers____06/06/2024 18:57:59
+ID:id 1 , Name:Terrell Jast , Start Date:Y2r30o=ClD , End Date:vz+zs[JTCT , Manager:False , Still Employed:False
+ID:id 3 , Name:Kerry Wintheiser , Start Date:|:d5MZJvS8 , End Date:L-pMQ{[Tn* , Manager:False , Still Employed:False
+ID:id 4 , Name:Dr. Calvin Orn , Start Date:n:81m!HYK) , End Date:W-aPy."3O7 , Manager:False , Still Employed:True
+ID:id 5 , Name:Lana Schuster , Start Date:SL^pF5c=fF , End Date:P<CY@gS<p| , Manager:True , Still Employed:False
+ID:id 6 , Name:Leticia Spencer , Start Date:G/W\Qb+Y{d , End Date:tW`Xcfl<>6 , Manager:False , Still Employed:True
+ID:id 7 , Name:Justin Osinski , Start Date:E`(OS>|]9U , End Date:;\HG^&#%?% , Manager:False , Still Employed:True
+ID:id 8 , Name:Rudy Hilpert , Start Date:ej%Oq_Q9rE , End Date:-9z@l|V@1F , Manager:True , Still Employed:False
+ID:id 9 , Name:Harry Armstrong , Start Date:+p>y2K&Pd% , End Date:JJ87\$_xw- , Manager:True , Still Employed:False
+ID:id 10 , Name:Carol Collins Sr. , Start Date:Tt[xENmg4X , End Date:{dicU|VEye , Manager:False , Still Employed:True
+ID:id 11 , Name:Genevieve Franecki , Start Date:je4gWqiW)R , End Date:`D[:Hdluey , Manager:True , Still Employed:False
+ID:id 12 , Name:Dorothy Feeney , Start Date:iAKsri";qI , End Date:VS84(inqL- , Manager:True , Still Employed:True
+ID:id 13 , Name:Roy Koch , Start Date:"_vfl$`rN4 , End Date:X;Dh%7LW^9 , Manager:True , Still Employed:True
