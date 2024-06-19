@@ -1,19 +1,19 @@
 # WPF Project Gallery
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Reservations](#reservations)
+6. [License](#license)
+7. [Contact](#contact)
 
 ## Introduction
 Welcome to the WPF Project Gallery. This project is a WPF application that serves as a gallery for showcasing various WPF-based applications. It is designed to demonstrate my capabilities in using different technologies such as Object-Oriented Programming (OOP), JSON APIs, and LINQ.
 
 ## Features
 This gallery includes nine projects:
-
 1. **Animal Pic API**: Enables the user to collect lists of images of animals from several animal picture APIs.
 2. **API Hub**: Enables the user to receive textual information from four different APIs.
 3. **Frogger**: Recreates in WPF the 80s SEGA game Frogger.
@@ -24,21 +24,27 @@ This gallery includes nine projects:
 8. **Fury Road**: A simulated car driving game.
 9. **Store Inventory**: Simulates inventory and store management system connected to an API that holds both the inventory items and store employees.
 
-Additionally, there is a **User Contact** feature at the top of the gallery page. It includes a button that opens a window allowing a user to view my credentials and make contact with me.
+Additionally, there is a User Contact feature at the top of the gallery page. It includes a button that opens a window allowing a user to view my credentials and make contact with me.
 
 ## Installation
-
-1. Download the `WPF_Project.zip` file from [this link](https://github.com/Tomerlivechen/C-_Project/blob/main/Project_Gallery/bin/Release/net8.0-windows/WPF_Project.zip) and extract it into a folder.
+1. Download the WPF_Project.zip file from [this link](https://github.com/Tomerlivechen/C-_Project/blob/main/Project_Gallery/bin/Release/net8.0-windows/WPF_Project.zip) and extract it into a folder.
 2. Open the `Project_Gallery.exe` file.
 3. The main window will display the gallery of projects.
 4. Click on each project to view it.
 
 ## Usage
-
 1. Launch the application by running `Project_Gallery.exe`.
 2. Browse through the gallery to see the different projects.
 3. Click on a project to open and interact with it.
 4. Use the contact button at the top of the gallery page to view my credentials and contact information.
+
+## Reservations
+Regarding documentation requirements we have received conflicting instructions:
+1. In the project lesson, we were instructed that variable and function names serve as documentation.
+2. The project instructions mention adding "documentation" without clear guidelines.
+3. Upon seeking clarification, I was advised to use variable and function names as documentation and to add comments only to non-obvious functions. Upon reviewing my functions, each is named to describe its purpose clearly.
+
+Therefore, all variables and functions have meaningful and relevant names, serving as the documentation.
 
 ## License
 I take no ownership or copyright over the images used in this project; they were all gathered from the internet or AI-generated.
