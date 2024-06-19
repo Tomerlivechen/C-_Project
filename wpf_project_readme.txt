@@ -5,8 +5,9 @@ Table of Contents
 2.	Features
 3.	Installation
 4.	Usage
-5.	License
-6.	Contact
+5.	Reservations
+6.	License
+7.	Contact
 
 Introduction
 Welcome to the WPF Project Gallery. This project is a WPF application that serves as a gallery for showcasing various WPF-based applications. It is designed to demonstrate my capabilities in using different technologies such as Object-Oriented Programming (OOP), JSON APIs, and LINQ.
@@ -35,6 +36,14 @@ Usage
 2.	Browse through the gallery to see the different projects.
 3.	Click on a project to open and interact with it.
 4.	Use the contact button at the top of the gallery page to view my credentials and contact information.
+
+Reservations
+Regarding documentation requirements we have received conflicting instructions:
+1. In the project lesson, we were instructed that variable and function names serve as documentation.
+2. The project instructions mention adding "documentation" without clear guidelines.
+3. Upon seeking clarification, I was advised to use variable and function names as documentation and to add comments only to non-obvious functions. Upon reviewing my functions, each is named to describe its purpose clearly.
+Therefore, all variables and functions have meaningful and relevant names, serving as the documentation.
+
 License
 I take no ownership or copyright over the images used in this project; they were all gathered from the internet or AI-generated.
 
