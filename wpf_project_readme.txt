@@ -25,7 +25,7 @@ This gallery includes nine projects:
 Additionally, there is a User Contact feature at the top of the gallery page. It includes a button that opens a window allowing a user to view my credentials and make contact with me.
 
 Installation
-1.	Download the WPF_Project.zip file from [https://github.com/Tomerlivechen/C-_Advanced_re/blob/main/Project_Gallery/bin/Release/net8.0-windows/WPF_Project.zip] and extract it into a folder.
+1.	Download the WPF_Project.zip file from [https://github.com/Tomerlivechen/C-_Project/blob/main/Project_Gallery/bin/Release/net8.0-windows/WPF_Project.zip] and extract it into a folder.
 2.	Open the Project_Gallery.exe file.
 3.	The main window will display the gallery of projects.
 4.	Click on each project to view it.
