@@ -101,7 +101,7 @@ namespace PrioratyDefiner {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PriorityDefiner;component/windows/listcreation.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PriorityDefiner;V1.0.0.0;component/windows/listcreation.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\windows\ListCreation.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

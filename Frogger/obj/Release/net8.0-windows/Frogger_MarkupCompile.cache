@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Users\Tomer Chen\GitHub\C#_Advanced_re\Frogger\obj\Release\net8.0-windows\
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\obj\Release\net8.0-windows\
 Frogger
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-D:\Users\Tomer Chen\GitHub\C#_Advanced_re\Frogger\App.xaml
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Frogger\App.xaml
 2-877183227
 
 10602338166
-199-531426137
+199517800829
 Windows\Game_window.xaml;Windows\IndexWindow.xaml;
 
 False

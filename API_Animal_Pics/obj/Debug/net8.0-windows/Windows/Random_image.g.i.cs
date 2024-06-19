@@ -86,7 +86,7 @@ namespace API_Animal_Pics.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/API_Animal_Pics;component/windows/random_image.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/API_Animal_Pics;V1.0.0.0;component/windows/random_image.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\Random_image.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

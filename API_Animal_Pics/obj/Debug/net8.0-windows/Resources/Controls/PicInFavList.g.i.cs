@@ -93,7 +93,7 @@ namespace API_Animal_Pics.Resources {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/API_Animal_Pics;component/resources/controls/picinfavlist.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/API_Animal_Pics;V1.0.0.0;component/resources/controls/picinfavlist.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Resources\Controls\PicInFavList.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

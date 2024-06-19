@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\Users\Tomer Chen\GitHub\C#_Advanced_re\Common_Classes\obj\Release\net8.0-windows\
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Common_Classes\obj\Release\net8.0-windows\
 Common_Classes
 none
 false
@@ -16,5 +16,5 @@ TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 198155382431
 Common_Elements\High_score.xaml;Common_Elements\Input_box.xaml;Common_Elements\Opening_panel_window.xaml;
 
-False
+True
 

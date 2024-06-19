@@ -85,7 +85,7 @@ namespace API_hub.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/API_hub;component/windows/receipt.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/API_hub;V1.0.0.0;component/windows/receipt.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\Receipt.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

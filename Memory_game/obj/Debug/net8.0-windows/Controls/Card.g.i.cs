@@ -61,7 +61,7 @@ namespace Memory_game.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Memory_game;component/controls/card.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Memory_game;V1.0.0.0;component/controls/card.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\Card.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

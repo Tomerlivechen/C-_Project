@@ -134,7 +134,7 @@ namespace Taki_Game {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Taki_Game;component/resources/windows/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Taki_Game;V1.0.0.0;component/resources/windows/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Resources\Windows\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

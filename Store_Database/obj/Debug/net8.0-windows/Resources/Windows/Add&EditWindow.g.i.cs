@@ -125,7 +125,7 @@ namespace Store_Database.Resources.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Store_Database;component/resources/windows/add&editwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Store_Database;V1.0.0.0;component/resources/windows/add&editwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Resources\Windows\Add&EditWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -77,7 +77,7 @@ namespace API_Animal_Pics.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/API_Animal_Pics;component/windows/saved_pics.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/API_Animal_Pics;V1.0.0.0;component/windows/saved_pics.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\Saved_pics.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

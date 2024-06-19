@@ -77,7 +77,7 @@ namespace PriorityDefiner {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PriorityDefiner;component/windows/tasklists.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PriorityDefiner;V1.0.0.0;component/windows/tasklists.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\windows\TaskLists.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

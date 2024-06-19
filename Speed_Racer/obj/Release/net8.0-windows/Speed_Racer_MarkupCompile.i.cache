@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Users\Tomer Chen\GitHub\C#_Advanced_re\Speed_Racer\obj\Release\net8.0-windows\
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\obj\Release\net8.0-windows\
 Speed_Racer
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-D:\Users\Tomer Chen\GitHub\C#_Advanced_re\Speed_Racer\App.xaml
+C:\Users\tomer\Documents\Dot_Net course\C#_Project\Speed_Racer\App.xaml
 7450175957
 
 20-1984475008
-199-531426137
+199517800829
 Resources\Controls\Colectable.xaml;Resources\Controls\DistanceView.xaml;Resources\Controls\FuleGauge.xaml;Resources\Controls\Repair_item.xaml;Resources\Controls\Speedometer.xaml;Windows\Game_Window.xaml;Windows\IndexWindow.xaml;
 
-False
+True
 

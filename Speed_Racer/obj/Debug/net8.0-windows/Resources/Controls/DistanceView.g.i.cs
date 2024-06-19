@@ -69,7 +69,7 @@ namespace Speed_Racer.Resources.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Speed_Racer;component/resources/controls/distanceview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Speed_Racer;V1.0.0.0;component/resources/controls/distanceview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Resources\Controls\DistanceView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -61,7 +61,7 @@ namespace Speed_Racer.Resources.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Speed_Racer;component/resources/controls/repair_item.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Speed_Racer;V1.0.0.0;component/resources/controls/repair_item.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Resources\Controls\Repair_item.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

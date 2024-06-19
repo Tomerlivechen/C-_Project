@@ -77,7 +77,7 @@ namespace Speed_Racer.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Speed_Racer;component/windows/indexwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Speed_Racer;V1.0.0.0;component/windows/indexwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\IndexWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

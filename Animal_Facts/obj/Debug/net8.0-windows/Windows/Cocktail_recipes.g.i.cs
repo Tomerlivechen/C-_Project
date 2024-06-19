@@ -77,7 +77,7 @@ namespace API_hub.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/API_hub;component/windows/cocktail_recipes.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/API_hub;V1.0.0.0;component/windows/cocktail_recipes.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\Cocktail_recipes.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -61,7 +61,7 @@ namespace Taki_Game.Resources.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Taki_Game;component/resources/controls/taki_card.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Taki_Game;V1.0.0.0;component/resources/controls/taki_card.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Resources\Controls\Taki_Card.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

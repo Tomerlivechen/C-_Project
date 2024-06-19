@@ -69,7 +69,7 @@ namespace Project_Gallery.Controles {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Project_Gallery;component/controles/projectbutton.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Project_Gallery;V1.0.0.0;component/controles/projectbutton.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controles\ProjectButton.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

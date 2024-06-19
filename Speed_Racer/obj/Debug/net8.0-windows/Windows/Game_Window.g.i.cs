@@ -206,7 +206,7 @@ namespace Speed_Racer.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Speed_Racer;component/windows/game_window.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Speed_Racer;V1.0.0.0;component/windows/game_window.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\Game_Window.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
