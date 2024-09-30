@@ -1,0 +1,7 @@
+C:\Users\tomer\Desktop\ForDad\Store_Database.exe
+C:\Users\tomer\Desktop\ForDad\Store_Database.dll
+C:\Users\tomer\Desktop\ForDad\Store_Database.deps.json
+C:\Users\tomer\Desktop\ForDad\Store_Database.runtimeconfig.json
+C:\Users\tomer\Desktop\ForDad\Store_Database.pdb
+C:\Users\tomer\Desktop\ForDad\Common_Classes.dll
+C:\Users\tomer\Desktop\ForDad\Common_Classes.pdb

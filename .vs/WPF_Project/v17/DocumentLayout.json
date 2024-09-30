@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54402863-9448-4325-B5C9-78AD07EA52CF}|Store_Database\\Store_Database.csproj|c:\\users\\tomer\\documents\\dot_net course\\c#_project\\store_database\\resources\\classes\\api_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54402863-9448-4325-B5C9-78AD07EA52CF}|Store_Database\\Store_Database.csproj|solutionrelative:store_database\\resources\\classes\\api_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5467F08F-4AB5-4C98-BA01-96734E468E3A}|Common_Classes\\Common_Classes.csproj|c:\\users\\tomer\\documents\\dot_net course\\c#_project\\common_classes\\common_elements\\input_box.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5467F08F-4AB5-4C98-BA01-96734E468E3A}|Common_Classes\\Common_Classes.csproj|solutionrelative:common_classes\\common_elements\\input_box.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "API_Static.cs",
+              "DocumentMoniker": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\Store_Database\\Resources\\Classes\\API_Static.cs",
+              "RelativeDocumentMoniker": "Store_Database\\Resources\\Classes\\API_Static.cs",
+              "ToolTip": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\Store_Database\\Resources\\Classes\\API_Static.cs",
+              "RelativeToolTip": "Store_Database\\Resources\\Classes\\API_Static.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:57:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Input_box.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\Common_Classes\\Common_Elements\\Input_box.xaml.cs",
               "RelativeDocumentMoniker": "Common_Classes\\Common_Elements\\Input_box.xaml.cs",
               "ToolTip": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\Common_Classes\\Common_Elements\\Input_box.xaml.cs",
               "RelativeToolTip": "Common_Classes\\Common_Elements\\Input_box.xaml.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAowG8AAABFAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwG8AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T18:27:16.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StringExtention.cs",
               "DocumentMoniker": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\Common_Classes\\Classes\\StringExtention.cs",
               "RelativeDocumentMoniker": "Common_Classes\\Classes\\StringExtention.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Common_Classes\\Classes\\StringExtention.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T16:51:23.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T16:51:23.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Add\u0026EditWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tomer\\Documents\\Dot_Net course\\C#_Project\\Store_Database\\Resources\\Windows\\Add\u0026EditWindow.xaml.cs",
               "RelativeDocumentMoniker": "Store_Database\\Resources\\Windows\\Add\u0026EditWindow.xaml.cs",
@@ -65,6 +81,10 @@
               "ViewState": "AQIAALoAAAAAAAAAAAAAANkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T16:48:37.556Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
