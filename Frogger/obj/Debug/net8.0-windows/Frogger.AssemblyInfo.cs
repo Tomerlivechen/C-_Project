@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Frogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+294725a7d040f42cb3a9e05ea52973110bbb4c28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af573cc4dfbb9dcfc7994cb70454ba8a2a80e67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Frogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Frogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
